@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "16.16.0",
+  "description": "simple Web  App\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[S",
+  "main": "Hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blylas/Intro-to-Node.git"
+  },
+  "author": "Paul Portman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Blylas/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/Blylas/Intro-to-Node#readme"
+}
